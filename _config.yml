@@ -2,9 +2,11 @@
 menu:
   Home: /
   Archives: /archives
+  Categories: /categories
+  Tags: /tags
   # change github and email values to your own addresses
-  Github: https://github.com/<your-github-username>
-  Email: mailto:<your-email-address>
+  Github: https://github.com/yxCoda
+  Email: mailto:Skywalker347510@outlook.com
 rss: /atom.xml
 
 # Set to false to disable banner
